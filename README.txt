@@ -4,3 +4,5 @@ hello world
 
 
 test3
+
+merge
